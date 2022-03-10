@@ -15,3 +15,8 @@ for i in range(0, M):
  for j in range(0, N):
      print(f"{mat[i][j]} ", end="")
  print() 
+ 
+ 
+ 
+ 
+ 
