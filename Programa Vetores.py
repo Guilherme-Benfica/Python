@@ -7,6 +7,8 @@ for i in range(0, N):
 
 print()
 print("NUMEROS DIGITADOS: ")
+
 for i in range(0, N):
     print(f"{vet[i]:.1f}")
+    
 
